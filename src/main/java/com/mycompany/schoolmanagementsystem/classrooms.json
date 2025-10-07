@@ -1,0 +1,124 @@
+{
+  "classrooms": [
+    {
+      "classroomId": "Class-1",
+      "studentIds": [1, 2, 3, 4, 5],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 9, "subject": "SUBJECT2", "teacherId": 2},
+        {"hour": 10, "subject": "SUBJECT3", "teacherId": 3},
+        {"hour": 11, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 12, "subject": "SUBJECT6", "teacherId": 6},
+        {"hour": 13, "subject": "SUBJECT7", "teacherId": 7}
+      ]
+    },
+    {
+      "classroomId": "Class-2",
+      "studentIds": [6, 7, 8, 9, 10],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT2", "teacherId": 2},
+        {"hour": 9, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 10, "subject": "SUBJECT8", "teacherId": 8},
+        {"hour": 11, "subject": "SUBJECT5", "teacherId": 5},
+        {"hour": 12, "subject": "SUBJECT9", "teacherId": 9},
+        {"hour": 13, "subject": "SUBJECT10", "teacherId": 10}
+      ]
+    },
+    {
+      "classroomId": "Class-3",
+      "studentIds": [11, 12, 13, 14, 15],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT3", "teacherId": 3},
+        {"hour": 9, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 10, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 11, "subject": "SUBJECT2", "teacherId": 2},
+        {"hour": 12, "subject": "SUBJECT7", "teacherId": 7},
+        {"hour": 13, "subject": "SUBJECT8", "teacherId": 8}
+      ]
+    },
+    {
+      "classroomId": "Class-4",
+      "studentIds": [16, 17, 18, 19, 20],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT6", "teacherId": 6},
+        {"hour": 9, "subject": "SUBJECT7", "teacherId": 7},
+        {"hour": 10, "subject": "SUBJECT2", "teacherId": 2},
+        {"hour": 11, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 12, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 13, "subject": "SUBJECT5", "teacherId": 5}
+      ]
+    },
+    {
+      "classroomId": "Class-5",
+      "studentIds": [21, 22, 23, 24, 25],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT9", "teacherId": 9},
+        {"hour": 9, "subject": "SUBJECT6", "teacherId": 6},
+        {"hour": 10, "subject": "SUBJECT5", "teacherId": 5},
+        {"hour": 11, "subject": "SUBJECT3", "teacherId": 3},
+        {"hour": 12, "subject": "SUBJECT2", "teacherId": 2},
+        {"hour": 13, "subject": "SUBJECT1", "teacherId": 1}
+      ]
+    },
+    {
+      "classroomId": "Class-6",
+      "studentIds": [26, 27, 28, 29, 30],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT8", "teacherId": 8},
+        {"hour": 9, "subject": "SUBJECT5", "teacherId": 5},
+        {"hour": 10, "subject": "SUBJECT10", "teacherId": 10},
+        {"hour": 11, "subject": "SUBJECT7", "teacherId": 7},
+        {"hour": 12, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 13, "subject": "SUBJECT3", "teacherId": 3}
+      ]
+    },
+    {
+      "classroomId": "Class-7",
+      "studentIds": [31, 32, 33, 34, 35],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 9, "subject": "SUBJECT9", "teacherId": 9},
+        {"hour": 10, "subject": "SUBJECT7", "teacherId": 7},
+        {"hour": 11, "subject": "SUBJECT6", "teacherId": 6},
+        {"hour": 12, "subject": "SUBJECT8", "teacherId": 8},
+        {"hour": 13, "subject": "SUBJECT2", "teacherId": 2}
+      ]
+    },
+    {
+      "classroomId": "Class-8",
+      "studentIds": [36, 37, 38, 39, 40],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT5", "teacherId": 5},
+        {"hour": 9, "subject": "SUBJECT3", "teacherId": 3},
+        {"hour": 10, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 11, "subject": "SUBJECT9", "teacherId": 9},
+        {"hour": 12, "subject": "SUBJECT10", "teacherId": 10},
+        {"hour": 13, "subject": "SUBJECT6", "teacherId": 6}
+      ]
+    },
+    {
+      "classroomId": "Class-9",
+      "studentIds": [41, 42, 43, 44, 45],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT7", "teacherId": 7},
+        {"hour": 9, "subject": "SUBJECT8", "teacherId": 8},
+        {"hour": 10, "subject": "SUBJECT1", "teacherId": 1},
+        {"hour": 11, "subject": "SUBJECT10", "teacherId": 10},
+        {"hour": 12, "subject": "SUBJECT5", "teacherId": 5},
+        {"hour": 13, "subject": "SUBJECT4", "teacherId": 4}
+      ]
+    },
+    {
+      "classroomId": "Class-10",
+      "studentIds": [46, 47, 48, 49, 50],
+      "timetable": [
+        {"hour": 8, "subject": "SUBJECT10", "teacherId": 10},
+        {"hour": 9, "subject": "SUBJECT4", "teacherId": 4},
+        {"hour": 10, "subject": "SUBJECT9", "teacherId": 9},
+        {"hour": 11, "subject": "SUBJECT8", "teacherId": 8},
+        {"hour": 12, "subject": "SUBJECT3", "teacherId": 3},
+        {"hour": 13, "subject": "SUBJECT1", "teacherId": 1}
+      ]
+    }
+  ]
+}

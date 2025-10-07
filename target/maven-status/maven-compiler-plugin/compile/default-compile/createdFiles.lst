@@ -1,0 +1,8 @@
+com\mycompany\schoolmanagementsystem\SchoolManagementSystem.class
+com\mycompany\schoolmanagementsystem\Classroom.class
+com\mycompany\schoolmanagementsystem\JSONReader.class
+com\mycompany\schoolmanagementsystem\TimeSlot.class
+com\mycompany\schoolmanagementsystem\Subject.class
+com\mycompany\schoolmanagementsystem\Student.class
+com\mycompany\schoolmanagementsystem\Teacher.class
+com\mycompany\schoolmanagementsystem\Timetable.class

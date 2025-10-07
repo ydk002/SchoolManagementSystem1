@@ -1,0 +1,54 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Teacher1",
+      "specialization": "SUBJECT1"
+    },
+    {
+      "id": 2,
+      "name": "Teacher2",
+      "specialization": "SUBJECT2"
+    },
+    {
+      "id": 3,
+      "name": "Teacher3",
+      "specialization": "SUBJECT3"
+    },
+    {
+      "id": 4,
+      "name": "Teacher4",
+      "specialization": "SUBJECT4"
+    },
+    {
+      "id": 5,
+      "name": "Teacher5",
+      "specialization": "SUBJECT5"
+    },
+    {
+      "id": 6,
+      "name": "Teacher6",
+      "specialization": "SUBJECT6"
+    },
+    {
+      "id": 7,
+      "name": "Teacher7",
+      "specialization": "SUBJECT7"
+    },
+    {
+      "id": 8,
+      "name": "Teacher8",
+      "specialization": "SUBJECT8"
+    },
+    {
+      "id": 9,
+      "name": "Teacher9",
+      "specialization": "SUBJECT9"
+    },
+    {
+      "id": 10,
+      "name": "Teacher10",
+      "specialization": "SUBJECT10"
+    }
+  ]
+}
